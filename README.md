@@ -32,7 +32,7 @@ The analysis is based on the following disclosures:
   - No prime brokerage
   - No securitization exposures
 
-These exclusions materially shape the Basel III Endgame impact for American Express. :contentReference[oaicite:2]{index=2}
+These exclusions materially shape the Basel III Endgame impact for American Express. 
 
 ---
 
@@ -54,7 +54,7 @@ Baseline RWAs include:
 - Operational Risk  
 (No Market Risk component)
 
-:contentReference[oaicite:3]{index=3}
+
 
 ---
 
@@ -75,7 +75,7 @@ Under the Endgame proposal:
 
 This is significant given American Express’s large unused commitment base.
 
-:contentReference[oaicite:4]{index=4}
+
 
 ---
 
@@ -92,7 +92,7 @@ This is significant given American Express’s large unused commitment base.
 > Under Basel III, CVA RWA = 0  
 > Under Basel III Endgame, CVA becomes binding
 
-:contentReference[oaicite:5]{index=5}
+
 
 ---
 
@@ -109,9 +109,9 @@ Operational Risk Capital = BIC × ILM
 RWA = Capital × 12.5
 Final Operational RWA = $23,212,803
 
-Operational Risk contributes **~9.14% of total RWA impact**, making it one of the most material drivers under Basel III Endgame.
+Operational Risk contributes **9.14% of total RWA impact**, making it one of the most material drivers under Basel III Endgame.
 
-:contentReference[oaicite:6]{index=6}
+
 
 ---
 
@@ -127,7 +127,6 @@ Operational Risk contributes **~9.14% of total RWA impact**, making it one of th
 
 This improvement occurs **without any balance sheet change**, purely from regulatory treatment.
 
-:contentReference[oaicite:7]{index=7}
 
 ---
 
@@ -142,7 +141,6 @@ Key contributors:
 - CVA: marginal but non-zero
 - Unconditionally cancellable commitments: **+1.55%**
 
-:contentReference[oaicite:8]{index=8}
 
 ---
 
@@ -162,7 +160,6 @@ Potential actions highlighted by the analysis:
 - Maintain AOCI opt-out to limit capital volatility
 - Use derivatives strictly for hedging, not trading
 
-:contentReference[oaicite:9]{index=9}
 
 ---
 
