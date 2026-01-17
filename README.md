@@ -15,7 +15,7 @@ The analysis is based on the following disclosures:
 - **FR Y-9C** – baseline RWAs, CET1, Tier 1, and Total Capital ratios  
 - **FR Y-15** – systemic risk indicators and capital relevance  
 
-> **Note:** American Express does **not** file FFIEC 101, as it has **no exposure subject to Market Risk Rules**. This is confirmed by FR Y-9C filings showing zero trading assets and liabilities. :contentReference[oaicite:1]{index=1}
+> **Note:** American Express does **not** file FFIEC 101, as it has **no exposure subject to Market Risk Rules**. This is confirmed by FR Y-9C filings showing zero trading assets and liabilities. 
 
 ---
 
