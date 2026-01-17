@@ -5,7 +5,7 @@ This project evaluates the impact of the **Basel III Endgame (NPR)** on **Risk-W
 
 The analysis focuses on **Credit Risk, Counterparty Credit Risk (CCR), Credit Valuation Adjustment (CVA), and Operational Risk**, and explicitly reflects **American Express’s business model**, which does **not include trading activities or market risk exposure**.
 
-All results and impacts are derived from the accompanying presentation and regulatory disclosures. :contentReference[oaicite:0]{index=0}
+All results and impacts are derived from the accompanying presentation and regulatory disclosures. 
 
 ---
 
