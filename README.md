@@ -157,7 +157,6 @@ Key contributors:
 Potential actions highlighted by the analysis:
 - Optimize unused commitment management
 - Strengthen operational risk controls to reduce SMA capital
-- Maintain AOCI opt-out to limit capital volatility
 - Use derivatives strictly for hedging, not trading
 
 
